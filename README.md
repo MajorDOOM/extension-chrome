@@ -10,11 +10,3 @@ Technically, this extension changes the search region to being in Andorre (a cou
 
 Once this extension is installed, the Maps button reappears in your Google search results, allowing you to access Maps with just one click. Whether you're planning your daily commute or exploring new destinations, this extension makes navigation faster and more convenient, without any complications or detours.
 
-## Download
-
-* Firefox: https://addons.mozilla.org/firefox/addon/restore-google-maps-on-search/
-* Chrome: https://chromewebstore.google.com/detail/restaurez-google-maps-dan/jchaghdgaejkeifjjahamifdcddkcpoe
-
-## Preview
-
-![image](https://github.com/StephanMc/extension-restore-google-maps/assets/5366972/f3998dd5-01f7-45c6-9596-63fcff390d5b)
